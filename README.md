@@ -1,6 +1,8 @@
 # PowerBI_Practice_Feruz_Farxodov
 From preparing and loading data to modeling, creating visuals, and building reports, you'll be guided through each step to ensure successful completion of the task.
 
+.pbix and report .docx file are uploaded
+
 Prepare Data for Analysis With Power BI
 
 The first task involves preparing the data for input into Power BI. This may involve cleaning it, ensuring it is in the correct format, and ensuring any necessary data transformations have been performed.
